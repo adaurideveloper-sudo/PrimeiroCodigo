@@ -1,0 +1,24 @@
+# Binários e arquivos de build
+*.exe
+*.exe~
+*.so
+*.dll
+*.out
+*.test
+
+# Perfis de cobertura de código
+*.coverprofile
+*.cov
+coverage.txt
+
+# Diretório de dependências
+vendor/
+
+# Arquivos de workspace Go
+go.work
+go.work.sum
+
+# Arquivos de ambiente e IDE
+.env
+.idea/
+.vscode/
