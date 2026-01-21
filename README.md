@@ -5,8 +5,8 @@
 # Primeiro Código em Go
 
 Projeto introdutório em **Go (Golang)** com foco na configuração do ambiente de
- desenvolvimento em **Linux (Pop!_OS)** e na criação do primeiro programa 
- utilizando a linguagem, exibindo o clássico **“Olá Mundo”**.
+desenvolvimento em **Linux (Pop!_OS)** e na criação do primeiro programa 
+utilizando a linguagem, exibindo o clássico **“Olá Mundo”**.
 
 Este repositório faz parte do meu processo de aprendizado e consolidação dos 
 fundamentos da linguagem Go.
