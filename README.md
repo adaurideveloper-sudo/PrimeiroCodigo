@@ -1,7 +1,3 @@
-Perfeito — bora deixar isso com **cara de portfólio profissional** 👌
-A ideia aqui é algo **limpo, objetivo e alinhado com boas práticas**, do tipo que recrutador e dev experiente batem o olho e entendem rápido.
-
-Segue um **README.md profissional**, já revisado no tom certo:
 
 ---
 
